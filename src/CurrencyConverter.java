@@ -15,7 +15,6 @@ public class CurrencyConverter {
             currencyCodes.put(4, "ARS");
             currencyCodes.put(5, "KRW");
             currencyCodes.put(6, "CAD");
-            currencyCodes.put(0, "Sair");
 
 
             Integer from, to;
